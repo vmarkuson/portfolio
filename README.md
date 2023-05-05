@@ -8,3 +8,5 @@ I utilized HTML, CSS, and JavaScript to create my own personal website. This web
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
+## Project Outcome
+This project allows me to update my website template as I learn new skills, gain work experience, and update my personal information. With this project, I have a specific website where recruiters and colleagues can view my projects, social media profiles, and contact information.
